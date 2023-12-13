@@ -4,3 +4,4 @@ Menambah/Mengurangi keinginan sendiri dalam mengoding
 Memaksimalkan hasil dari mengoding
 Mempelajari fronr-end, back-end dan full-stack
 Mempelajari framework html,css dan javascript
+Mempelajari apa saja yang dibutuhkan dalam dunia industri
